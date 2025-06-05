@@ -1,0 +1,9 @@
+{
+    "FartuEnable": false,
+    "FartuLang": ["Portuguese"],
+    "FartuTimes": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "FartuLinks": 
+    [ 
+          { "Lang":"Portuguese", "Links": [""]}
+    ]
+ }
